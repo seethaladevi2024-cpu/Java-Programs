@@ -10,7 +10,7 @@ class Calculator {
         System.out.print("Enter second number: ");
         double number2 = object.nextDouble();
         object.nextLine();
-        System.out.println("1.add\n2.sub\n3.mul\n4.div\n");
+        System.out.println("1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n");
         System.out.print("Enter your choice:");
         int operation = object.nextInt();
         if(operation==1){
