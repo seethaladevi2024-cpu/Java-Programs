@@ -38,10 +38,10 @@ java Calculator
 
 Enter first number: 10
 Enter second number: 2
-1.add
-2.sub
-3.mul
-4.div
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
 Enter your choice: 4
 10.000000 / 2.000000 = 5.000000
 
